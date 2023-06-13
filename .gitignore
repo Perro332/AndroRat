@@ -1,0 +1,16 @@
+# soniaportillo:~$  git clone https://github.com/perro332/AndroRAT.git
+cloning into 'AndroRAT'...
+remote: Enumerating objects: 5008,  done.
+remote: cloning objets: 100% (5008/5008) done.
+remote: compressing objets : 100%  (2929/2929) done.
+remote: total 5008 (delta 2041), reused 4791 (delta 1866), pack-reused 0
+Receiving objets: 100% (5008 /5008 ),37.33 MiB | 16.09 MiB/s, done .
+Resolving deltas: 100% (2041/ 2041), done.
+soniaportillo:~$ cd AndroRAT/
+soniaportillo:~/AndroRAT$ ls
+androit_code compiled_apk  LINENSE  requirements.txt utils.py
+androRAT.py jar_utils      README. Screenshots
+soniaporillo:~/AndroRAT$ pip install -r requirements.txt 
+
+
+
